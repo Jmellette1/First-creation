@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+  <meta charset="UTF-8">
+  <title>Poem Excercise</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+  <p>you have brains in your head. you have feet in your shoes. you can steer yourself in any direction you choose.you are on your own. You know what you know. And you are the guy who will decide where to to go. you will look up and down streets. Look them over with care.</p>
+</body>
+</html>
+<br>
+
+<a href="https://google.com">This is a link</a>
+
+<br>
+ 
+<p>you have the brains in your head. You have the feet in your shoes. You can steer yourself in any direction you choose</p>
+
+<br>
+
+<h1>You are on your own.</h1>
+<h2>You know what you know.</h2>
+<h3>And you are the guy that will decide where to go</h3>
+<h4>You will look up and down streets.</h4>
+<h5>Look them over with care</h5>
+
+<br>
+
+&nbsp;
+
+<ol>
+    <li>1.You have the brains in your head.</li>
+    <li>2.You have the feet in your shoes.</li>
+    <li>3.You can steer yourself in any direction you choose</li>
+</ol>
+
+<ul>
+    <li>You have the brains in your head.</li>
+    <li>You have the feet in your shoes.</li>
+    <li>You can steer yourself in any direction you choose</li>
+
+<br>
+
+<strong>You are on your own.</strong>
+
+<br>
+
+<em>You know what you know.</em>
+
+<hr>And you are the guy who will decide where to go.</hr>
